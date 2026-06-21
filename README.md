@@ -93,3 +93,4 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
 - [Built with laravel](http://builtwithlaravel.com/): A collection of sites build with Laravel.
 - [Larajobs](https://larajobs.com): Will code Laravel for food.
 - [Pongo CMS](http://pongocms.com/): A content management system (CMS) built with Laravel.
+- [UnfoldCMS](https://unfoldcms.com): Self-hosted CMS built with Laravel 12 + React + shadcn/ui. REST API v1, HMAC webhooks, headless mode for Next.js, Astro, SvelteKit and Nuxt. [GitHub](https://github.com/hpakdaman/unfoldcms)
